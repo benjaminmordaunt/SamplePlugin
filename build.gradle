@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'com.sibomots' 
+version = '1.0-SNAPSHOT'
+description = 'SpongeHello Plugin'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:6.0.0'
+}

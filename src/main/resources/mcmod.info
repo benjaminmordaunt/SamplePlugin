@@ -1,0 +1,15 @@
+[
+    {
+        "modid": "spongehello",
+        "name": "SamplePlugin",
+        "version": "@project.version@",
+        "description": "@project.description@",
+        "dependencies": [
+            "spongeapi@6.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@6.0.0"
+        ]
+    }
+]
+
